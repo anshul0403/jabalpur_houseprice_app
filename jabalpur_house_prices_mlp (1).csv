@@ -1,0 +1,201 @@
+Location,BHK,Bathrooms,Size_sqft,Property_Type,Floor,Total_Floors,Property_Age,Parking,Lift,Security,Furnished,Price_Lakhs
+Napier Town,4,4,2619,Apartment,7,10,5,No,No,Yes,Furnished,126.1
+Damohnaka,4,3,2025,Villa,0,1,0,No,No,Yes,Unfurnished,66.14
+Kachhpura,4,4,1045,Independent House,0,1,2,Yes,No,Yes,Furnished,36.41
+Sneh Nagar,1,1,1573,Apartment,2,10,12,No,Yes,No,Furnished,49.53
+Wright Town,2,2,2254,Apartment,8,9,3,Yes,No,Yes,Furnished,72.8
+Ranital,5,5,1402,Apartment,1,3,20,No,No,Yes,Furnished,48.23
+Ranital,1,1,2421,Independent House,0,1,4,Yes,No,No,Semi,90.62
+Civil Lines,5,4,2067,Apartment,3,4,2,No,No,No,Semi,67.32
+Sukha,3,3,2813,Independent House,0,1,4,Yes,No,Yes,Furnished,119.61
+Sneh Nagar,5,4,1424,Independent House,0,1,14,Yes,No,No,Semi,51.22
+Gwarighat,5,2,620,Apartment,8,10,18,Yes,No,Yes,Semi,23.37
+Adhartal,2,2,1480,Apartment,1,9,1,No,Yes,No,Furnished,63.64
+Katanga,2,1,1367,Villa,0,1,1,Yes,No,No,Semi,54.67
+Kachhpura,3,3,1210,Independent House,0,1,20,Yes,No,No,Semi,34.46
+Napier Town,4,2,2548,Villa,0,1,19,Yes,No,No,Unfurnished,120.52
+Adhartal,4,3,1461,Villa,0,1,3,No,No,No,Unfurnished,45.17
+Shakti Nagar,4,1,1801,Independent House,0,1,16,No,No,Yes,Semi,73.8
+Katanga,5,4,1886,Villa,0,1,12,No,No,Yes,Semi,86.34
+Ranjhi,4,3,2170,Villa,0,1,20,No,No,No,Unfurnished,59.2
+Ranjhi,2,2,1656,Independent House,0,1,1,Yes,No,No,Furnished,67.22
+Ranital,2,1,1875,Villa,0,1,4,Yes,No,Yes,Unfurnished,81.83
+Adhartal,4,3,1269,Apartment,1,5,2,Yes,Yes,Yes,Furnished,34.44
+Kachhpura,5,1,2524,Villa,0,1,9,Yes,No,No,Furnished,80.19
+Vijay Nagar,3,2,2128,Independent House,0,1,14,Yes,No,Yes,Furnished,65.9
+Ranital,5,2,811,Independent House,0,1,0,Yes,No,Yes,Furnished,22.64
+Ranital,2,2,1226,Independent House,0,1,9,Yes,No,No,Unfurnished,42.09
+Ranjhi,2,1,1565,Villa,0,1,13,No,No,No,Furnished,58.84
+Adhartal,2,2,1895,Independent House,0,1,16,No,No,No,Furnished,86.75
+Ranital,5,4,2506,Villa,0,1,19,Yes,No,No,Unfurnished,93.47
+Wright Town,2,2,2870,Independent House,0,1,1,No,No,No,Semi,126.94
+Sukha,1,1,583,Independent House,0,1,18,No,No,Yes,Furnished,18.37
+Sneh Nagar,4,4,969,Apartment,7,10,7,Yes,Yes,No,Unfurnished,44.71
+Adhartal,5,2,817,Independent House,0,1,20,No,No,No,Semi,31.55
+Kachhpura,5,5,2415,Apartment,1,3,19,No,No,No,Furnished,100.1
+Katanga,5,1,2970,Villa,0,1,9,No,No,No,Unfurnished,125.72
+Damohnaka,5,1,954,Apartment,1,2,9,Yes,No,Yes,Furnished,37.65
+Kachhpura,1,1,2683,Independent House,0,1,1,No,No,No,Furnished,118.27
+Shakti Nagar,4,4,2344,Apartment,0,5,1,Yes,No,Yes,Furnished,64.84
+Napier Town,1,1,1824,Apartment,2,3,15,No,Yes,Yes,Unfurnished,76.39
+Kachhpura,2,2,1430,Apartment,3,4,0,No,No,No,Unfurnished,42.46
+Ranjhi,2,2,1202,Apartment,4,7,13,Yes,Yes,No,Semi,38.02
+Adhartal,1,1,887,Villa,0,1,9,Yes,No,No,Semi,28.83
+Ranjhi,1,1,2850,Apartment,3,9,19,Yes,Yes,No,Unfurnished,78.49
+Ranital,4,3,2840,Villa,0,1,16,Yes,No,No,Unfurnished,137.85
+Vijay Nagar,2,2,2653,Independent House,0,1,5,No,No,No,Unfurnished,125.81
+Ranjhi,3,2,2235,Independent House,0,1,13,Yes,No,Yes,Semi,104.8
+Sukha,3,3,1684,Apartment,7,8,6,Yes,Yes,No,Semi,43.4
+Shakti Nagar,2,2,2921,Villa,0,1,11,Yes,No,Yes,Semi,118.8
+Shakti Nagar,4,1,1335,Villa,0,1,3,Yes,No,Yes,Unfurnished,51.13
+Napier Town,1,1,594,Villa,0,1,8,No,No,Yes,Semi,22.89
+Sneh Nagar,3,3,2118,Villa,0,1,18,No,No,No,Semi,54.9
+Civil Lines,5,2,2028,Villa,0,1,5,Yes,No,Yes,Unfurnished,80.43
+Vijay Nagar,2,1,2154,Villa,0,1,20,No,No,Yes,Unfurnished,80.11
+Civil Lines,4,2,1347,Independent House,0,1,13,No,No,Yes,Unfurnished,66.19
+Wright Town,5,5,1771,Apartment,2,5,15,Yes,Yes,Yes,Semi,52.33
+Napier Town,5,4,2116,Villa,0,1,8,Yes,No,Yes,Semi,73.4
+Vijay Nagar,5,5,1506,Independent House,0,1,5,Yes,No,No,Unfurnished,45.3
+Civil Lines,1,1,667,Apartment,1,9,6,No,No,Yes,Furnished,22.41
+Damohnaka,5,2,1102,Apartment,0,1,1,Yes,No,Yes,Semi,39.11
+Sukha,4,4,2265,Apartment,0,7,9,Yes,No,Yes,Unfurnished,81.15
+Civil Lines,2,1,566,Villa,0,1,3,Yes,No,No,Furnished,19.97
+Katanga,1,1,2730,Apartment,4,9,18,No,Yes,No,Semi,120.94
+Ranjhi,3,1,1252,Independent House,0,1,8,No,No,No,Semi,37.11
+Napier Town,2,1,2990,Apartment,1,7,19,Yes,Yes,No,Furnished,90.48
+Shakti Nagar,2,1,959,Apartment,0,8,11,Yes,No,Yes,Unfurnished,27.05
+Sneh Nagar,3,2,2897,Villa,0,1,17,Yes,No,No,Unfurnished,130.92
+Ranjhi,1,1,2109,Independent House,0,1,1,No,No,No,Unfurnished,68.04
+Wright Town,3,1,1669,Villa,0,1,16,Yes,No,No,Unfurnished,45.45
+Adhartal,3,2,2574,Independent House,0,1,16,No,No,No,Furnished,111.33
+Shakti Nagar,1,1,582,Apartment,0,7,14,No,Yes,Yes,Furnished,25.34
+Damohnaka,3,3,660,Apartment,0,9,13,No,Yes,Yes,Unfurnished,25.92
+Adhartal,3,1,1596,Apartment,0,10,16,Yes,Yes,Yes,Furnished,62.34
+Sneh Nagar,1,1,2697,Apartment,1,5,3,Yes,Yes,No,Semi,78.89
+Napier Town,4,2,2818,Apartment,0,5,17,Yes,Yes,No,Furnished,131.35
+Ranjhi,5,5,1262,Villa,0,1,17,No,No,Yes,Semi,48.18
+Civil Lines,4,2,2069,Villa,0,1,2,No,No,Yes,Furnished,75.44
+Shakti Nagar,1,1,1274,Apartment,5,10,17,No,Yes,No,Unfurnished,59.18
+Katanga,5,4,1374,Villa,0,1,0,No,No,Yes,Semi,52.16
+Vijay Nagar,1,1,542,Independent House,0,1,3,No,No,Yes,Unfurnished,22.67
+Vijay Nagar,1,1,1869,Apartment,3,7,10,Yes,No,Yes,Furnished,50.09
+Wright Town,3,2,2916,Villa,0,1,17,Yes,No,Yes,Furnished,123.73
+Kachhpura,3,2,2217,Independent House,0,1,3,Yes,No,Yes,Furnished,95.6
+Vijay Nagar,4,1,2138,Apartment,3,8,14,Yes,Yes,No,Furnished,78.42
+Ranjhi,3,1,2501,Independent House,0,1,12,Yes,No,Yes,Unfurnished,109.79
+Civil Lines,4,1,2353,Villa,0,1,5,No,No,No,Unfurnished,105.41
+Sukha,4,3,1384,Independent House,0,1,6,No,No,Yes,Semi,40.29
+Ranital,3,1,2157,Independent House,0,1,6,No,No,No,Furnished,74.31
+Kachhpura,2,1,1511,Independent House,0,1,20,Yes,No,Yes,Furnished,40.92
+Gwarighat,2,2,920,Apartment,1,2,6,Yes,Yes,No,Semi,40.6
+Napier Town,1,1,1395,Villa,0,1,15,Yes,No,No,Unfurnished,54.98
+Sukha,4,1,777,Apartment,0,1,0,No,Yes,Yes,Furnished,38.18
+Sneh Nagar,4,1,1865,Apartment,5,8,7,Yes,Yes,No,Furnished,77.77
+Sneh Nagar,2,1,2432,Apartment,0,10,9,No,Yes,Yes,Semi,94.09
+Ranital,4,3,1330,Independent House,0,1,5,No,No,Yes,Furnished,42.83
+Sneh Nagar,1,1,545,Villa,0,1,8,No,No,Yes,Semi,26.88
+Sneh Nagar,2,1,1726,Apartment,1,10,9,No,Yes,Yes,Semi,52.42
+Gwarighat,4,4,1421,Independent House,0,1,9,Yes,No,No,Unfurnished,61.23
+Ranjhi,4,2,1766,Independent House,0,1,14,No,No,Yes,Unfurnished,80.26
+Kachhpura,4,2,963,Apartment,0,4,18,Yes,No,Yes,Unfurnished,38.54
+Wright Town,4,2,2960,Villa,0,1,12,Yes,No,No,Semi,95.55
+Katanga,1,1,2483,Villa,0,1,15,Yes,No,Yes,Semi,85.46
+Gwarighat,4,2,986,Villa,0,1,14,No,No,No,Furnished,41.92
+Wright Town,2,1,1475,Apartment,3,9,6,Yes,Yes,Yes,Furnished,69.74
+Ranital,3,2,1471,Independent House,0,1,11,No,No,No,Unfurnished,42.39
+Sukha,3,3,1519,Independent House,0,1,7,Yes,No,No,Semi,61.43
+Wright Town,2,1,685,Independent House,0,1,12,No,No,No,Semi,22.71
+Ranjhi,4,1,2458,Apartment,3,5,20,No,Yes,Yes,Unfurnished,115.45
+Sukha,5,5,1602,Apartment,1,6,14,Yes,Yes,No,Furnished,45.77
+Vijay Nagar,3,2,2132,Independent House,0,1,6,No,No,No,Semi,83.36
+Kachhpura,3,3,866,Villa,0,1,9,Yes,No,Yes,Semi,28.73
+Damohnaka,2,2,1007,Independent House,0,1,15,Yes,No,Yes,Furnished,49.51
+Civil Lines,5,4,2735,Apartment,2,5,19,Yes,Yes,Yes,Unfurnished,125.92
+Shakti Nagar,5,1,1203,Apartment,0,1,8,Yes,No,Yes,Furnished,32.34
+Vijay Nagar,4,1,2330,Apartment,5,7,8,Yes,Yes,Yes,Unfurnished,83.95
+Gwarighat,3,3,2922,Apartment,2,5,14,No,No,Yes,Unfurnished,142.16
+Adhartal,4,2,2436,Independent House,0,1,8,No,No,Yes,Unfurnished,97.03
+Sukha,2,2,2695,Independent House,0,1,18,Yes,No,No,Furnished,94.41
+Gwarighat,3,3,1928,Independent House,0,1,1,Yes,No,Yes,Semi,88.92
+Vijay Nagar,3,3,933,Independent House,0,1,9,No,No,Yes,Semi,34.19
+Gwarighat,5,1,2033,Villa,0,1,14,No,No,No,Furnished,94.55
+Sneh Nagar,2,2,2512,Apartment,2,7,18,Yes,No,No,Semi,80.58
+Ranjhi,3,3,2346,Apartment,6,8,17,Yes,Yes,Yes,Semi,84.93
+Gwarighat,4,4,2524,Villa,0,1,18,No,No,Yes,Semi,75.16
+Civil Lines,2,2,2047,Independent House,0,1,12,Yes,No,No,Semi,80.55
+Adhartal,1,1,1379,Villa,0,1,4,No,No,Yes,Furnished,48.9
+Civil Lines,3,1,681,Villa,0,1,14,Yes,No,No,Semi,25.48
+Ranital,4,3,1809,Apartment,1,2,19,Yes,No,Yes,Furnished,58.59
+Ranjhi,3,2,1258,Independent House,0,1,1,Yes,No,Yes,Furnished,44.16
+Wright Town,1,1,1637,Apartment,5,8,7,No,No,No,Furnished,74.66
+Vijay Nagar,1,1,2812,Villa,0,1,16,No,No,No,Unfurnished,94.93
+Ranital,1,1,2782,Apartment,2,8,5,Yes,No,No,Furnished,120.77
+Napier Town,5,1,2752,Villa,0,1,20,No,No,Yes,Semi,85.89
+Katanga,5,1,2722,Independent House,0,1,13,No,No,Yes,Furnished,99.65
+Civil Lines,1,1,2168,Apartment,6,9,6,Yes,No,No,Furnished,106.38
+Napier Town,3,3,1533,Villa,0,1,4,Yes,No,Yes,Unfurnished,63.4
+Sukha,1,1,2328,Apartment,5,6,17,Yes,Yes,No,Semi,104.62
+Damohnaka,2,1,2673,Apartment,5,9,3,Yes,No,No,Semi,78.83
+Ranital,2,2,1366,Independent House,0,1,12,No,No,No,Furnished,58.83
+Civil Lines,1,1,1728,Villa,0,1,6,No,No,No,Unfurnished,82.06
+Gwarighat,3,2,1579,Independent House,0,1,12,No,No,No,Semi,68.77
+Damohnaka,5,1,1350,Apartment,5,7,14,No,No,Yes,Unfurnished,58.81
+Civil Lines,1,1,576,Apartment,0,1,0,Yes,No,Yes,Unfurnished,18.01
+Wright Town,3,3,549,Apartment,2,5,10,Yes,No,Yes,Furnished,24.62
+Sukha,4,4,1934,Villa,0,1,5,No,No,No,Unfurnished,77.44
+Sukha,5,3,571,Apartment,4,8,5,Yes,No,Yes,Unfurnished,16.43
+Gwarighat,1,1,705,Villa,0,1,2,No,No,No,Unfurnished,19.08
+Katanga,4,2,2782,Independent House,0,1,15,Yes,No,No,Unfurnished,85.44
+Katanga,2,1,1521,Villa,0,1,7,No,No,Yes,Unfurnished,65.25
+Civil Lines,4,3,1357,Independent House,0,1,13,Yes,No,Yes,Furnished,65.8
+Kachhpura,4,2,2947,Apartment,8,9,16,Yes,Yes,No,Unfurnished,79.42
+Vijay Nagar,5,5,1533,Villa,0,1,4,Yes,No,No,Unfurnished,62.1
+Katanga,5,3,2709,Apartment,2,3,7,No,No,Yes,Semi,73.39
+Damohnaka,5,4,1956,Apartment,8,9,17,No,No,Yes,Unfurnished,87.06
+Katanga,3,2,2828,Independent House,0,1,13,Yes,No,Yes,Furnished,101.81
+Civil Lines,2,2,1065,Independent House,0,1,14,No,No,No,Semi,42.53
+Katanga,1,1,2930,Independent House,0,1,19,No,No,No,Furnished,132.06
+Vijay Nagar,1,1,1131,Apartment,5,6,0,No,Yes,Yes,Semi,45.32
+Sukha,4,3,1041,Villa,0,1,3,Yes,No,No,Furnished,27.62
+Shakti Nagar,2,1,1678,Independent House,0,1,6,No,No,Yes,Semi,81.52
+Adhartal,2,2,1801,Apartment,3,6,18,No,No,No,Furnished,74.54
+Civil Lines,5,4,735,Independent House,0,1,14,Yes,No,Yes,Unfurnished,33.07
+Damohnaka,4,4,2024,Independent House,0,1,16,Yes,No,No,Furnished,94.16
+Sneh Nagar,5,5,2753,Independent House,0,1,3,No,No,Yes,Furnished,111.03
+Sukha,2,1,2433,Villa,0,1,3,Yes,No,No,Unfurnished,120.63
+Ranjhi,5,3,2834,Independent House,0,1,18,Yes,No,No,Unfurnished,125.04
+Sukha,1,1,791,Apartment,0,7,4,No,No,Yes,Unfurnished,32.64
+Katanga,2,1,1457,Apartment,0,6,7,No,No,No,Semi,46.19
+Wright Town,4,2,1734,Independent House,0,1,20,Yes,No,No,Unfurnished,68.02
+Ranjhi,1,1,1824,Independent House,0,1,14,No,No,No,Furnished,60.96
+Kachhpura,5,2,1241,Villa,0,1,4,Yes,No,No,Semi,50.93
+Sukha,2,1,1742,Independent House,0,1,11,No,No,Yes,Semi,81.14
+Katanga,1,1,1547,Villa,0,1,0,No,No,No,Furnished,75.71
+Katanga,1,1,2431,Apartment,4,9,4,Yes,Yes,No,Unfurnished,89.83
+Napier Town,4,1,528,Villa,0,1,18,Yes,No,No,Semi,22.49
+Shakti Nagar,2,2,1380,Apartment,0,1,12,Yes,No,No,Unfurnished,62.56
+Wright Town,4,3,1092,Independent House,0,1,0,Yes,No,No,Furnished,38.78
+Ranital,1,1,964,Villa,0,1,13,Yes,No,No,Unfurnished,39.62
+Napier Town,5,3,2380,Apartment,2,6,4,Yes,No,Yes,Unfurnished,89.92
+Sukha,5,2,1371,Apartment,0,8,1,No,Yes,Yes,Furnished,39.32
+Vijay Nagar,3,3,790,Villa,0,1,20,Yes,No,No,Furnished,33.17
+Wright Town,4,3,2832,Independent House,0,1,3,No,No,No,Furnished,132.14
+Civil Lines,5,2,2218,Apartment,0,2,8,Yes,No,Yes,Semi,95.29
+Ranjhi,4,1,1836,Apartment,0,7,15,No,No,Yes,Semi,79.88
+Katanga,5,3,2827,Apartment,2,6,6,Yes,No,No,Unfurnished,96.77
+Damohnaka,4,2,1636,Independent House,0,1,6,Yes,No,Yes,Furnished,73.15
+Napier Town,5,5,2077,Villa,0,1,18,No,No,No,Unfurnished,59.71
+Civil Lines,4,2,888,Independent House,0,1,11,Yes,No,No,Furnished,34.76
+Katanga,3,3,2091,Apartment,1,4,0,Yes,No,No,Furnished,100.39
+Sneh Nagar,3,2,2994,Independent House,0,1,6,Yes,No,Yes,Unfurnished,81.53
+Shakti Nagar,4,1,1870,Independent House,0,1,20,No,No,Yes,Furnished,83.48
+Sukha,2,1,1426,Apartment,2,8,3,No,No,Yes,Furnished,65.7
+Sukha,3,1,1882,Villa,0,1,4,No,No,Yes,Unfurnished,54.05
+Civil Lines,3,3,779,Independent House,0,1,1,No,No,Yes,Unfurnished,31.92
+Adhartal,5,4,1704,Villa,0,1,15,No,No,No,Semi,58.04
+Ranital,5,2,924,Villa,0,1,17,No,No,Yes,Semi,38.95
+Adhartal,1,1,2104,Apartment,1,4,15,Yes,No,No,Furnished,91.44
+Ranital,5,5,1745,Villa,0,1,14,No,No,No,Furnished,79.17
+Ranital,2,2,1772,Villa,0,1,2,No,No,No,Furnished,86.69
+Wright Town,5,4,1422,Apartment,0,2,9,No,No,Yes,Semi,59.74
+Vijay Nagar,3,1,1497,Apartment,2,4,20,Yes,Yes,No,Unfurnished,38.56
